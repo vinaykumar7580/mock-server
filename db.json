@@ -70,6 +70,22 @@
       "price": "200",
       "ratings": "8",
       "id": 11
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "shoes",
+      "description": "puma",
+      "price": "500",
+      "ratings": "10",
+      "id": 12
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "boot",
+      "description": "puma",
+      "price": "290",
+      "ratings": "5",
+      "id": 13
     }
   ]
 }
