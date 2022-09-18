@@ -1,9 +1,75 @@
 {
-    "todos":[
-        {
-            "title":"Task-1",
-            "id": 12345678,
-            "status":false
-        }
-    ]
+  "todos": [
+    {
+      "title": "Task-1",
+      "id": 12345678,
+      "status": false
+    }
+  ],
+  "menu": [
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "shirt",
+      "description": "hello",
+      "price": "250",
+      "ratings": "7",
+      "id": 4
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "t-shirt",
+      "description": "best deal",
+      "price": "270",
+      "ratings": "9",
+      "id": 5
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "t-shirt",
+      "description": "best deal",
+      "price": "270",
+      "ratings": "9",
+      "id": 6
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "t-shirt",
+      "description": "best deal",
+      "price": "300",
+      "ratings": "6",
+      "id": 7
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "t-shirt",
+      "description": "best deal",
+      "price": "350",
+      "ratings": "7",
+      "id": 8
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "t-shirt",
+      "description": "best deal",
+      "price": "350",
+      "ratings": "7",
+      "id": 9
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "t-shirt",
+      "description": "best deal",
+      "price": "200",
+      "ratings": "8",
+      "id": 10
+    },
+    {
+      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
+      "title": "t-shirt",
+      "description": "best deal",
+      "price": "200",
+      "ratings": "8",
+      "id": 11
+    }
+  ]
 }
