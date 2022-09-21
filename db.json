@@ -207,13 +207,38 @@
       "id": "SRucFHw"
     }
   ],
-  "trousers":[
-
+  "trousers": [
+    {
+      "image": "https://tse1.mm.bing.net/th?id=OIP.eyHyOV1p3nxkgpW7vPuGpAHaLH&pid=Api&rs=1&c=1&qlt=95&w=81&h=122",
+      "name": "trouser",
+      "brand": "siyaram's",
+      "price": "800",
+      "id": 1
+    }
   ],
-  "shoes":[
-
+  "shoes": [
+    {
+      "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+      "name": "shoes",
+      "brand": "puma",
+      "price": "230",
+      "id": 1
+    }
   ],
-  "t-shirts":[
-    
+  "t-shirts": [
+    {
+      "image": "https://images.pexels.com/photos/1232459/pexels-photo-1232459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "t-shirt",
+      "brand": "nykee",
+      "price": "400",
+      "id": 1
+    },
+    {
+      "image": "https://images.pexels.com/photos/1232459/pexels-photo-1232459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "t-shirt",
+      "brand": "nykee",
+      "price": "400",
+      "id": 2
+    }
   ]
 }
