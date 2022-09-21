@@ -90,14 +90,6 @@
   ],
   "employee": [
     {
-      "task": "1",
-      "id": "1"
-    },
-    {
-      "name": "anand",
-      "id": "F9VMEh9"
-    },
-    {
       "name": "pranav",
       "batch": "web-20",
       "course": "Js-201",
@@ -139,7 +131,7 @@
       "course": "rct-101",
       "age": "20",
       "mobile": "12345",
-      "evaluation_score": "5",
+      "evaluation_score": "7",
       "id": "qOlTrGX"
     },
     {
@@ -213,33 +205,15 @@
       "mobile": "12345",
       "evaluation_score": "10",
       "id": "SRucFHw"
-    },
-    {
-      "name": "raghu",
-      "batch": "web-18",
-      "course": "web-111",
-      "age": "28",
-      "mobile": "12345",
-      "evaluation_score": "8",
-      "id": "MjK0TGN"
-    },
-    {
-      "name": "raghu",
-      "batch": "web-18",
-      "course": "web-111",
-      "age": "28",
-      "mobile": "12345",
-      "evaluation_score": "8",
-      "id": "0-Gt2SG"
-    },
-    {
-      "name": "aadi",
-      "batch": "web-18",
-      "course": "web-111",
-      "age": "28",
-      "mobile": "12345",
-      "evaluation_score": "4",
-      "id": "Q-TKtRc"
     }
+  ],
+  "trousers":[
+
+  ],
+  "shoes":[
+
+  ],
+  "t-shirts":[
+    
   ]
 }
