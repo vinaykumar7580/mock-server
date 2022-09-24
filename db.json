@@ -38,55 +38,8 @@
       "price": "300",
       "ratings": "6",
       "id": 7
-    },
-    {
-      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
-      "title": "t-shirt",
-      "description": "best deal",
-      "price": "350",
-      "ratings": "7",
-      "id": 8
-    },
-    {
-      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
-      "title": "t-shirt",
-      "description": "best deal",
-      "price": "350",
-      "ratings": "7",
-      "id": 9
-    },
-    {
-      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
-      "title": "t-shirt",
-      "description": "best deal",
-      "price": "200",
-      "ratings": "8",
-      "id": 10
-    },
-    {
-      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
-      "title": "t-shirt",
-      "description": "best deal",
-      "price": "200",
-      "ratings": "8",
-      "id": 11
-    },
-    {
-      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
-      "title": "shoes",
-      "description": "puma",
-      "price": "500",
-      "ratings": "10",
-      "id": 12
-    },
-    {
-      "image": "https://tse3.mm.bing.net/th?id=OIP.hwwFETHzhbdKpOeK0nLNxwHaE8&pid=Api&P=0",
-      "title": "boot",
-      "description": "puma",
-      "price": "290",
-      "ratings": "5",
-      "id": 13
     }
+   
   ],
   "employee": [
     {
@@ -142,69 +95,6 @@
       "mobile": "12345",
       "evaluation_score": "8",
       "id": "B7w_-qe"
-    },
-    {
-      "name": "anand",
-      "batch": "web-14",
-      "course": "rct-101",
-      "age": "20",
-      "mobile": "12345",
-      "evaluation_score": "5",
-      "id": "0KsFRKy"
-    },
-    {
-      "name": "angad",
-      "batch": "web-14",
-      "course": "rct-111",
-      "age": "27",
-      "mobile": "12345",
-      "evaluation_score": "8",
-      "id": "VtuT3_2"
-    },
-    {
-      "name": "pankaj",
-      "batch": "web-17",
-      "course": "web-101",
-      "age": "28",
-      "mobile": "12345",
-      "evaluation_score": "6",
-      "id": "2hAZMG2"
-    },
-    {
-      "name": "sandy",
-      "batch": "web-17",
-      "course": "web-111",
-      "age": "28",
-      "mobile": "12345",
-      "evaluation_score": "9",
-      "id": "dcBze9O"
-    },
-    {
-      "name": "sandy",
-      "batch": "web-17",
-      "course": "web-111",
-      "age": "28",
-      "mobile": "12345",
-      "evaluation_score": "9",
-      "id": "XEZHSMi"
-    },
-    {
-      "name": "sandy",
-      "batch": "web-17",
-      "course": "web-111",
-      "age": "28",
-      "mobile": "12345",
-      "evaluation_score": "9",
-      "id": "YTPgrzC"
-    },
-    {
-      "name": "ram",
-      "batch": "web-17",
-      "course": "web-111",
-      "age": "28",
-      "mobile": "12345",
-      "evaluation_score": "10",
-      "id": "SRucFHw"
     }
   ],
   "trousers": [
@@ -240,5 +130,8 @@
       "price": "400",
       "id": 2
     }
+  ],
+  "practise":[
+
   ]
 }
