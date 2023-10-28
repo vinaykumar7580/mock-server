@@ -131,10 +131,26 @@
       "id": 2
     }
   ],
-  "practise":[
-
-  ],
-  "product":[
-    
+  "user": [
+    {
+      "userName": "vinaykumar7580",
+      "password": "12345",
+      "firstName": "vinay",
+      "lastName": "hatwar",
+      "dob": "2023-10-28",
+      "mobileNo": 90333344432,
+      "emailId": "vinay@gmail.com",
+      "id": 1
+    },
+    {
+      "userName": "pranav123",
+      "password": "pranav",
+      "firstName": "pranav",
+      "lastName": "hatwar",
+      "dob": "2023-10-28",
+      "mobileNo": 2333333333,
+      "emailId": "pranav@gmail.com",
+      "id": 2
+    }
   ]
 }
